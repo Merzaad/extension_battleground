@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "chrome-extension-boilerplate-react-vite",
+  "name": "extension_battleground",
   "version": "0.0.1",
-  "description": "chrome extension boilerplate",
+  "description": "extension battleground",
   "options_page": "src/pages/options/index.html",
   "background": {
     "service_worker": "src/pages/background/index.js"
