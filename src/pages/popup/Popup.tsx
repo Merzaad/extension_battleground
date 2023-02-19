@@ -1,7 +1,6 @@
 import React from "react";
-import logo from "@assets/img/logo.svg";
+import logo from "../../../public/reindeer.png";
 import "@pages/popup/Popup.css";
-
 const Popup = () => {
   return (
     <div className="App">
